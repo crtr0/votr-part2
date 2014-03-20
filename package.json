@@ -1,5 +1,5 @@
 {
-  "name": "votr-part-2",
+  "name": "NAME-YOUR-APP",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "twiliosig": "0.0.1",
     "socket.io": "0.9.11"
   },
-  "subdomain": "votr-part2",
+  "subdomain": "PICK-A-SUBDOMAIN",
   "engines": {
     "node": "0.6.x"
   }
