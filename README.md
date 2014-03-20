@@ -8,3 +8,5 @@ This app is part of the [second blog post][1] in a four-part series on building 
 [1]: http://www.twilio.com/blog/foo
 [2]: http://www.highcharts.com
 [3]: http://socket.io
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/b80fc0ab64062dac5768ecbebfe62d49 "githalytics.com")](http://githalytics.com/crabasa/votr-part2.git)
